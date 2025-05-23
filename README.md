@@ -2,9 +2,7 @@
 
 A modern customer support platform with AI-powered chat assistance built with React and Gemini AI.
 
-[Live Demo]() <!-- Add your deployment URL here -->
-
-![IntercomAI Screenshot](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200)
+[Live Demo](https://intercom-like-frontend.vercel.app/) <!-- Add your deployment URL here -->
 
 ## Features
 
@@ -40,21 +38,6 @@ A modern customer support platform with AI-powered chat assistance built with Re
    ```bash
    npm run dev
    ```
-
-## Project Structure
-
-```
-src/
-├── components/        # Reusable UI components
-├── data/             # Mock data and types
-├── lib/              # Utility functions and API clients
-├── pages/            # Page components
-└── types/            # TypeScript type definitions
-```
-
-## Environment Variables
-
-- `VITE_GEMINI_API_KEY`: Your Google Gemini API key
 
 ## Contributing
 
