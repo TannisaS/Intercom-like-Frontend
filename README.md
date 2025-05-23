@@ -1,6 +1,6 @@
 # IntercomAI Admin Panel
 
-A modern customer support platform with AI-powered chat assistance built with React and Gemini AI.
+A modern customer support platform with AI-powered chat assistance built with React, TypeScript and Gemini AI.
 
 [Live Demo](https://intercom-like-frontend.vercel.app/) <!-- Add your deployment URL here -->
 
